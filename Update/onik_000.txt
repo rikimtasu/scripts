@@ -303,7 +303,7 @@ void main()
 
 //　ここからさらに車で山道を走る￥
 	OutputLine(NULL, "　ここからさらに車で山道を走る。",
-		   NULL, "從這裡換搭私人車輛之後還要花三十分鐘，才會到達現在我所居住的土地——雛見澤。", Line_Normal);
+		   NULL, "從這裡換搭私人車再开车往山道前去。", Line_Normal);
 	ClearMessage();
 
 //*******************************************************
@@ -334,7 +334,7 @@ void main()
 
 //　うっそうと木々が茂る山道が急に開けるとそこが...￥
 	OutputLine(NULL, "　うっそうと木々が茂る山道が急に開けるとそこが…、",
-		   NULL, "Past where the dense forest encroaching on the mountain road suddenly opened up...", Line_Normal);
+		   NULL, "郁郁林木丛生的山道间豁然开朗，那里是……， ", Line_Normal);
 	ClearMessage();
 
 //setwindow 31,16,22,16,26,26,0,2,20,1,1,#ffffff,0,0,639,479
@@ -346,7 +346,7 @@ void main()
 
 //　そこが今の俺の住む土地、雛見沢（ひなみざわ）だ￥
 	OutputLine(NULL, "　そこが今の俺の住む土地、雛見沢（ひなみざわ）だ。",
-		   NULL, "There, where I live now. Hinamizawa.", Line_Normal);
+		   NULL, "現在我所居住的土地——雛見澤", Line_Normal);
 	ClearMessage();
 
 
